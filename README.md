@@ -1,2 +1,2 @@
 # hello-World
-Reposiratory created while studying pyhton 
+Reposiratory created while studying pyhton
